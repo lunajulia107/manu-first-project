@@ -7,7 +7,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Nível](https://img.shields.io/badge/n%C3%ADvel-iniciante-0058ff?style=flat-square)
-![Instalação](https://img.shields.io/badge/instala%C3%A7%C3%A3o-nenhuma-success?style=flat-square)
 
 [Ver o projeto](#-ver-o-projeto) · [O que aprendemos](#-o-que-aprendemos) · [Estrutura](#-estrutura) · [Autoras](#-autoras)
 
