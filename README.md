@@ -1,6 +1,4 @@
-<img src="coracao-gif.png" alt="Coração vermelho" width="72">
-
-# manu-first-project
+# ❤️ manu-first-project
 
 **O primeiro site da Manu.** Uma página em HTML e CSS com um coração que bate. Feita para aprender o básico do desenvolvimento web de um jeito leve e divertido.
 
@@ -8,7 +6,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Nível](https://img.shields.io/badge/n%C3%ADvel-iniciante-0058ff?style=flat-square)
 
-[Ver o projeto](#-ver-o-projeto) · [O que aprendemos](#-o-que-aprendemos) · [Estrutura](#-estrutura) · [Autoras](#-autoras)
+[O que aprendemos](#-o-que-aprendemos) · [Tecnologias](#-tecnologias-utilizadas) · [Como executar](#%EF%B8%8F-como-executar-o-projeto) · [Estrutura](#-estrutura-do-projeto) · [Créditos](#-créditos-do-projeto)
 
 ---
 
@@ -20,25 +18,6 @@
 | **Para quem** | Quem está começando a programar agora |
 | **Tempo para rodar** | Menos de 1 minuto |
 | **Arquivos** | 3, um HTML, um CSS e uma imagem |
-
----
-
-## 👀 Ver o projeto
-
-**1. Baixe os arquivos**
-
-Clique em **Code → Download ZIP** aqui no GitHub, ou use o terminal:
-
-```bash
-git clone https://github.com/lunajulia107/manuHTML.git
-```
-
-**2. Abra no navegador**
-
-Dê dois cliques no arquivo `index.html`. Pronto! 🎉
-
-> [!TIP]
-> Usando o VS Code? Instale a extensão **Live Server**. A página recarrega sozinha toda vez que você salvar um arquivo.
 
 ---
 
@@ -105,10 +84,39 @@ Como o coração cresce **duas vezes** em cada segundo, o movimento lembra o *tu
 
 ---
 
-## 📁 Estrutura
+## 🛠 Tecnologias utilizadas
+
+| Tecnologia | Para que serve |
+| --- | --- |
+| **HTML** | Estrutura da página |
+| **CSS** | Cores, tamanhos, fonte e animação |
+| **Google Fonts** | Fonte cursiva Tangerine |
+
+---
+
+## ⚙️ Como executar o projeto
+
+### 1️⃣ Baixar os arquivos
+
+Clique em **Code → Download ZIP** aqui no GitHub, ou use o terminal:
+
+```bash
+git clone https://github.com/lunajulia107/manu-first-project.git
+```
+
+### 2️⃣ Abrir no navegador
+
+Dê dois cliques no arquivo `index.html`. Pronto! 🎉
+
+> [!TIP]
+> Usando o VS Code? Instale a extensão **Live Server**. A página recarrega sozinha toda vez que você salvar um arquivo.
+
+---
+
+## 📁 Estrutura do projeto
 
 ```
-manuHTML/
+manu-first-project/
 ├── index.html        → a estrutura (o que aparece)
 ├── style.css         → o estilo (como aparece)
 └── coracao-gif.png   → a imagem do coração
@@ -116,8 +124,13 @@ manuHTML/
 
 ---
 
-## 👩‍💻 Autoras
+## 🤝 Créditos do projeto
 
-**Manuela Luna**, a aluna, e **Julia Gomes**, a prima professora. Feito com carinho. 💙
+Feito com carinho, em dupla. 💙
+
+| Papel | Responsável |
+| --- | --- |
+| 👧 Aluna | Manuela Luna |
+| 👩‍💻 Prima professora | Julia Gomes |
 
 Dúvidas ou sugestões: [rodriguesjuliaw23@gmail.com](mailto:rodriguesjuliaw23@gmail.com)
