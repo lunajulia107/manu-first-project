@@ -1,6 +1,6 @@
 <img src="coracao-gif.png" alt="Coração vermelho" width="72">
 
-# manuHTML
+# manuFirstProject
 
 **O primeiro site da Manu.** Uma página em HTML e CSS com um coração que bate. Feita para aprender o básico do desenvolvimento web de um jeito leve e divertido.
 
